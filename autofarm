@@ -8,7 +8,7 @@ if game.PlaceId == 648362523 then
     game.StarterGui:SetCore(
         "SendNotification",
         {
-            Title = "Credis",
+            Title = "Credits",
             Text = "sy8zz#6969"
         }
     )
